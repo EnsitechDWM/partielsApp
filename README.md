@@ -1,8 +1,10 @@
 # partielsApp
 
 Préréquis : 
-	- Vous devez disposer du logiciel XAMPP (https://www.apachefriends.org/fr/index.html)
-	- Vous devez aussi disposer de la dernière version de JAVA (https://www.java.com/fr/)
+
+- Vous devez disposer du logiciel XAMPP (https://www.apachefriends.org/fr/index.html)
+
+- Vous devez aussi disposer de la dernière version de JAVA (https://www.java.com/fr/)
 
 
 Installation :
