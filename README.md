@@ -29,6 +29,16 @@ Voici les étapes à suivre dans l'odre afin de pouvoir éxecuter correctement l
 
 5eme Etape : Votre installation est terminée. Vous pouvez double cliquer sur le fichier "start.jar" pour lancer l'application
 
+Pour vous connecter à l'application, veuillez saisir les informations suivantes :
+
+Directeur (tous les droits)
+login : Directeur
+mot de passe : Partiels@Ensup2021!
+
+Responsable (ne peut pas lister les étudiants)
+login : Responsable
+Mot de passe : Ensup!Partiels2021@
+
 
 Si vous rencontrez des problèmes au niveau de l'installation, n'hésitez pas à contacter un des membres suivant :
 
